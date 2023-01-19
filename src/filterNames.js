@@ -1,3 +1,5 @@
 const filterNamesX = (noms) => {
-    return [];
+    return noms.filter((nom) => !nom.toLowerCase().includes("x"));
 };
+
+exports.filterNamesX = filterNamesX;
