@@ -1,0 +1,3 @@
+const filterNamesX = (noms) => {
+    return [];
+};
