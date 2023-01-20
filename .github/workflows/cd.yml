@@ -1,4 +1,4 @@
-name: DevOps 10 CD
+name: exofirebase CD
 
 on:
   push:
